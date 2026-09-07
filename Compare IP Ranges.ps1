@@ -1,3 +1,7 @@
+#Author: Kushal Jha
+#Date Created: 8th September 2026
+
+
 # Press 'F5' to run this script. Running this script will load the ConfigurationManager
 # Site configuration
 $SiteCode = ""  # Site code 
